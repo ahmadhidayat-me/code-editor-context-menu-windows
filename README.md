@@ -9,6 +9,10 @@ How to get Sublime Text 2 in your Windows context menu.
 4. Save
 5. Double click.
 
+Update VS Code
+thank to
+https://thisdavej.com/right-click-on-windows-folder-and-open-with-visual-studio-code/
+
 
 Shazaam.  Enjoy.
 
